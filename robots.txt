@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adrianbrooks09.github.io/Guia-Social-Colombia/sitemap.xml
